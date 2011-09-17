@@ -1,4 +1,4 @@
-package askgps.catnet.at;
+package at.catnet.askgps;
 
 import java.io.IOException;
 import java.util.Map;

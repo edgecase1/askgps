@@ -1,4 +1,4 @@
-package askgps.catnet.at;
+package at.catnet.askgps;
 
 import android.util.Log;
 

@@ -1,7 +1,5 @@
-package askgps.catnet.at;
+package at.catnet.askgps;
 
-import android.R.id;
-import android.R.layout;
 import android.app.Activity;
 import android.content.Context;
 import android.location.Location;
